@@ -1,4 +1,4 @@
-console.log("Hello");
+//console.log("Hello");
 const form = document.querySelector('form')
 
 form.addEventListener('submit', function(e) {
